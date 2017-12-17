@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumberCircles</string>
+    <string name="type_a_number">Type a number</string>
+    <string name="find_factors">Find Distance</string>
+    <string name="results">Distance from centre will appear here!</string>
+    <string name="menu_opt1_title">Explain?</string>
+    <string name="help_text">NumberCircles: Given concentric number circles as shown, and an input target number, find which tier of number circle it resides on, and the offset from centre in terms of steps needed</string>
+    <string name="help_ok">OK</string>
+</resources>
